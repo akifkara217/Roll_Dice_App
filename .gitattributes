@@ -10,6 +10,8 @@
 
 *.cxx linguist-detectable=false
 
+*.cmake linguist-detectable=false
+
 *.hpp linguist-detectable=false
 
 
