@@ -10,7 +10,7 @@
 
 *.c linguist-detectable=false
 
-*.h linguist-detectable=false
+*.cmake_minimum_required linguist-detectable=false
 
 *.C linguist-detectable=false
 
