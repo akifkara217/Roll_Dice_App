@@ -1,5 +1,5 @@
-# Dice Roller Application 
+# Roll Dice Application 
 
-A new Flutter project.
+A new basic Flutter project.
 
 
