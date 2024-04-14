@@ -1,8 +1,8 @@
-*.csharp linguist-detectable=true
+*.dart linguist-detectable=true
 
-*.java linguist-detectable=false
+*.c++linguist-detectable=false
 
-*.js linguist-detectable=false
+*.swift linguist-detectable=false
 
 *.html linguist-detectable=false
 
